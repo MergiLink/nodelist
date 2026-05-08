@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "id": "sq1",
+      "name": "宿迁BGP",
+      "description": "宿迁BGP20M",
+      "host": "sq.mergi.ink",
+      "port": 26686,
+      "region": "中国"
+    },
+    {
+      "id": "cd1",
+      "name": "成都阿里BGP",
+      "description": "成都阿里BGP200M",
+      "host": "cd.mergi.ink",
+      "port": 8998,
+      "region": "中国"
+    }
+  ],
+  "version": "1.0",
+  "update_time": "2026-05-08T22:59:00+08:00"
+}
