@@ -1,8 +1,7 @@
 {
   "TurnAuthServers": [
      [{"Username":"a","Password":"a","urls": [
-        "turn:cd.mergi.ink:21122?transport=udp",
-        "turn:cd.mergi.ink:21122?transport=tcp",
+        "turn:cd.mergi.ink:3478?transport=udp",
         "stun:stun.qq.com:3478"
       ]}]
   ],
